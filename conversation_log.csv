@@ -1,0 +1,56 @@
+timestamp,from_number,message_type,message_content
+2025-10-28 12:25:41,whatsapp:+917974227456,user,Hi
+2025-10-28 12:25:46,whatsapp:+917974227456,bot,"Hi there! 👋 Welcome to our electronics store! How can I help you today? Are you looking for a phone, laptop, headphones, or something else?"
+2025-10-28 12:30:24,whatsapp:+917974227456,user,I looking for laptop
+2025-10-28 12:30:34,whatsapp:+917974227456,bot,"Excellent! We have a fantastic range of laptops available right now.
+
+Here are a few popular options:
+
+1.  **TechPro Ultrabook**: A sleek and powerful machine with a 14-inch display, 16GB RAM, and 512GB SSD. Perfect for work and travel. **Price: ₹65,999**
+
+2.  **GamerMax 15**: Built for performance, featuring a high-refresh-rate display, dedicated graphics card, and 1TB storage. Ideal for gaming and content creation. **Price: ₹89,999**
+
+3.  **Everyday Value Laptop**: A reliable all-rounder with a 15.6-inch screen, 8GB RAM, and 256GB SSD. Great for students and everyday use. **Price: ₹34,999**
+
+Which model interests you, or shall I help you pick the best one for your needs?"
+2025-10-30 22:07:17,whatsapp:+917974227456,user,Hii
+2025-10-30 22:07:21,whatsapp:+917974227456,bot,"Hi there! 👋 Welcome to our electronics store! How can I help you today? Are you looking for a smartphone, laptop, headphones, or something else?"
+2025-10-30 22:07:35,whatsapp:+917974227456,user,I am looking for laptop
+2025-10-30 22:07:44,whatsapp:+917974227456,bot,"Excellent! Yes, we have a great selection of laptops available right now.
+
+Here are a few popular options:
+
+1.  **TechPro Ultrabook:** A super lightweight and powerful laptop, perfect for work and travel. Features a 14-inch display, 16GB RAM, and 512GB SSD. **Price: $899.**
+2.  **GamerMax 15:** Built for high-performance gaming and video editing. It has a 15.6-inch 144Hz screen, powerful graphics card, and 1TB storage. **Price: $1,299.**
+3.  **Everyday Value Laptop:** A fantastic all-rounder for students and everyday use. Includes a 15.6-inch HD screen and 256GB SSD. **Price: $499.**
+
+Which model interests you, or shall I help you pick the best one for your needs?"
+2025-10-30 22:08:18,whatsapp:+917974227456,user,I go with 2nd gamermax
+2025-10-30 22:08:21,whatsapp:+917974227456,bot,"Excellent choice! The GamerMax Pro with the 1TB SSD and 144Hz display is a fantastic deal.
+
+Let's get it ordered for you!
+
+To proceed, please provide your **full delivery address**."
+2025-10-30 22:09:01,whatsapp:+917974227456,user,"My address: Rukmani nagar, indore pin: 452005"
+2025-10-30 22:09:02,whatsapp:+917974227456,bot,Got it. And how would you like to pay? (UPI or Card)
+2025-10-30 22:09:18,whatsapp:+917974227456,user,From Card
+2025-10-30 22:09:22,whatsapp:+917974227456,bot,"Great! Your order is confirmed.
+
+**Product:** I go with 2nd gamermax  
+**Address:** Rukmani nagar, indore pin: 452005  
+**Payment:** Card  
+
+It will be shipped within 2-3 business days. Thank you for shopping with us!"
+2025-10-30 22:09:39,whatsapp:+917974227456,user,Okay thank you
+2025-10-30 22:09:42,whatsapp:+917974227456,bot,You're very welcome! 😊 Is there a specific product you're interested in today? I can check our latest deals for you!
+2025-10-31 23:27:40,whatsapp:+16822172520,user,Hii
+2025-10-31 23:27:45,whatsapp:+16822172520,bot,"Hello! 👋 Welcome to our electronics store! How can I help you today? Are you looking for a phone, laptop, headphones, or something else?"
+2025-10-31 23:35:04,whatsapp:+16822172520,user,Laptop
+2025-10-31 23:35:09,whatsapp:+16822172520,bot,"Yes, we have laptops available! Here are a couple of great options:
+
+1.  **TechPro Ultrabook** - 14"" FHD Display, Intel i5, 8GB RAM, 512GB SSD - **₹65,999**
+2.  **PowerMax Gaming Laptop** - 15.6"" Display, Intel i7, 16GB RAM, 1TB SSD - **₹94,499**
+
+Would you like to order one of these, or shall I tell you about a third model?"
+2025-10-31 23:35:24,whatsapp:+16822172520,user,Fuck u
+2025-10-31 23:35:27,whatsapp:+16822172520,bot,"I'm here to help you with any electronics you need! If there's a product you're looking for, just let me know."

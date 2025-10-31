@@ -1,0 +1,7 @@
+flask
+twilio
+openai
+python-dotenv
+streamlit
+pandas
+numpy

@@ -1,0 +1,5 @@
+order_id,timestamp,customer_phone,product_details,delivery_address,payment_method
+ORD-20251008110509-7456,2025-10-08 11:05:09,whatsapp:+917974227456,"I went to order  *256GB Storage (Starlight Silver):* ₹27,999","A411Rukmani Nagar, Army Headquarter, Indore , 452006",Card
+ORD-20251008115653-7456,2025-10-08 11:56:53,whatsapp:+917974227456,yes place order,A411 Rukmani Nagar indore 452006,UPI
+ORD-20251008123335-7456,2025-10-08 12:33:35,whatsapp:+917974227456,"I go with Brand A Smart TV (55""): 4K Ultra HD, HDR10, Google Assistant. **Price: ₹28,999",A411 Rukmani Nagar indore,UPI
+ORD-20251030220922-7456,2025-10-30 22:09:22,whatsapp:+917974227456,I go with 2nd gamermax,"My address: Rukmani nagar, indore pin: 452005",From Card
